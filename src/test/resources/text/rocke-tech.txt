@@ -1,0 +1,6 @@
+We like complex problems,
+ which others try to avoid.
+ We are good friends with big data, embedded/IoT,
+  syncronized hardware systems, high availability infrastructures,
+  data security because of this attitude.
+   We love to learn through problems.
